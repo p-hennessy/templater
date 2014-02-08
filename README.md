@@ -2,6 +2,7 @@ Author: Patrick Hennessy
 E-Mail: PH7VC@mail.missouri.edu
 
 To install this script:
+
 1) Create a directory called ".templates" in your home directory
     cd ~
     mkdir .templates
@@ -28,7 +29,7 @@ To install this script:
 
 6) Show it off!
 
-# You can modify this easily for other classes by creating a template and providing other information to the alias
+You can modify this easily for other classes by creating a template and providing other information to the alias
     The script actually takes 3 arguments: 
         1 = directory you wish to put your files in
         2 = template file you want to use
